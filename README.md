@@ -63,8 +63,7 @@ Developer / Source Repository
 | Document Title | Application Deployment & Validations |
 | Version | 1.0 |
 | Reference | Modern Applications CI/CD Stack on VKS |
-| Date | 07 September 2026 |
-| Package | 6 – Application Deployment, Validations |
+| Package |  Application Deployment, Validations |
 | Status | Draft / Implementation |
 | Platform | vSphere Kubernetes Service (VKS) |
 | CD Model | GitOps / ArgoCD |
