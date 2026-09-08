@@ -2,7 +2,7 @@
 
 **Reference Architecture:** Modern Applications CI/CD Stack on VKS  
 **Document Version:** 1.0  
-**Package:** 6 – Application Deployment, Validations  
+**Package:** Application Deployment, Validations  
 **Platform:** vSphere Kubernetes Service (VKS)  
 **CD Model:** GitOps / ArgoCD  
 **Registry:** Harbor  
@@ -603,3 +603,7 @@ Capture the following evidence:
 ## Reference
 
 This README is converted from the **Application Deployment & Validations Implementation Document**, Package 6 of the **Modern Applications CI/CD Stack on VKS** reference architecture.
+
+
+
+
